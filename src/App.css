@@ -1,0 +1,70 @@
+
+
+body{
+    height: 100dvh;
+    width: 100dvw;
+}
+
+
+/* 
+@media (max-width: 2560px) {
+    .mediaWidth {
+        width: 800px;
+    }
+    .victorImage {
+        top: 430px;
+        left: 1150px;
+        width: 250px;
+        height: 250px;
+    }
+
+} */
+
+/* @media (max-width: 1440px) {
+    .mediaWidth {
+        width: 400px;
+    }
+    .victorImage {
+        left: 650px;
+        width: 150px;
+        height: 150px;
+    }
+
+} */
+
+
+
+/* @media (max-width: 1024px) {
+    .mediaWidth {
+        width: 400px;
+    }
+    .victorImage {
+        left: 450px;
+        width: 150px;
+        height: 150px;
+    }
+
+} */
+
+/* @media (max-width: 768px) {
+    .mediaWidth {
+        width: 400px;
+    }
+    .victorImage {
+        left: 310px;
+        width: 150px;
+        height: 150px;
+    }
+
+}
+@media (max-width: 425px) {
+    .mediaWidth {
+        width: 400px;
+    }
+    .victorImage {
+        left: 150px;
+        width: 150px;
+        height: 150px;
+    }
+
+} */
